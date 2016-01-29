@@ -1,0 +1,54 @@
+body{
+	/*background: #38393b;*/
+     background: url('../images/bg4.jpg') no-repeat;
+}
+#img{
+	width: 1114px;
+    height: 733px;
+    border: 1px solid #38393B;
+    margin: 30px auto;
+    background: url('../images/dazi1.png');
+    -webkit-transform:scale(0.8);
+}
+#sence{
+	width: 784px;
+    height: 354px;
+    background: #151919;
+    padding: 20px;
+    margin: 220px auto;
+    box-shadow: 0 0 20px black;
+    position: relative;
+    border-radius: 30px;
+    border: 20px solid #cfcdd0;
+}
+.block{
+	width: 79px;
+    height: 45px;
+    background: #b1afb0;
+    box-shadow: 0 6px 0px #898989;
+    border-radius: 10px;
+    /* border: 1px solid #C2DCA3; */
+    margin: 0 8px 14px 0;
+    float: left;
+    font-size: 1.5em;
+    font-weight: bolder;
+    color: #060606;
+    text-align: center;
+    line-height: 50px;
+}
+#time{
+    width: 259px;
+    height: 74px;
+    background: rgba(60, 60, 60, 0.53);
+    border: 1px solid #652907;
+    position: absolute;
+    top: 190px;
+    left: 517px;
+    text-align: center;
+    line-height: 74px;
+    color: white;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-size: 2.5em;
+}
+
